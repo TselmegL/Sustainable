@@ -1,0 +1,1 @@
+This html version is only the front-end of the website, which means just the aesthetics of it. If you have any problems using local host or live server for the main website contact me at kyoto#6070 or lgemlest@gmail.com
